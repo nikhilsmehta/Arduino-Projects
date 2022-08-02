@@ -1,10 +1,3 @@
-/*******
-
-  All the resources for this project:
-  https://www.hackster.io/Aritro
-
-*******/
-
 int redLed = 12;
 int greenLed = 11;
 //int buzzer = 10;
